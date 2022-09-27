@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[36],{2928:function(e,n,t){"use strict";t.r(n);t(2),t(3),t(4),t(5);var c={name:"ClusterResourceNamespaceId",components:{ResourceDetail:t(2413).a}},l=t(1),component=Object(l.a)(c,(function(){var e=this.$createElement;return(this._self._c||e)("ResourceDetail")}),[],!1,null,null,null);n.default=component.exports}}]);
+//# sourceMappingURL=77dbb078a301a6637cfb.js.map

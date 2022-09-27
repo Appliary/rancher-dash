@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[37],{2926:function(e,t,n){"use strict";n.r(t);n(2),n(3),n(4),n(5);var r={name:"ClusterResourceCreate",components:{ResourceDetail:n(2413).a}},c=n(1),component=Object(c.a)(r,(function(){var e=this.$createElement;return(this._self._c||e)("ResourceDetail",{attrs:{"component-testid":"cluster-manager-create"}})}),[],!1,null,null,null);t.default=component.exports}}]);
+//# sourceMappingURL=8f5fd8d7868b0394dd6b.js.map
